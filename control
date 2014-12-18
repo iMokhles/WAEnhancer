@@ -1,0 +1,16 @@
+Package: com.imokhles.WAEnhancer
+Name: WAEnhancer
+Version: 1.3
+Description: Most Wanted Features
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.freemanrepo.waplus, com.imokhles.whatsapplstimest, org.thebigboss.watusi
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: iMokhles
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: file:///Library/PreferenceBundles/WAEnhancerPrefs.bundle/WAEnhancerCydiaIcon.png

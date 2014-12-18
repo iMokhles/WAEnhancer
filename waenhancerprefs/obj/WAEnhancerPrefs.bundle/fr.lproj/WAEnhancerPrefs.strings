@@ -1,0 +1,94 @@
+// First Settings
+
+// Activator
+"Activator Listener" = "Activator Listener";
+"choose activator listener" = "choose activator listener";
+"Activation Methods" = "Activation Methods";
+
+// Switchs
+"FlipSwitch Switchs" = "FlipSwitch Switchs";
+"configure switchs" = "configure switchs";
+"Active Switches" = "Active Switches";
+
+// Privacy
+"Privacy Options" = "Privacy Options";
+"Here the privacy options which let you invisible completly in WhatsApp ;)" = "Here the privacy options which let you invisible completly in WhatsApp ;)";
+"Read Mark" = "Read Mark";
+"Last Seen" = "Last Seen";
+
+// Advanced
+"Advanced Options" = "Advanced Options";
+"Here list of advanced options which give your application the most wanted features ;)" = "Here list of advanced options which give your application the most wanted features ;)";
+"New Wallpapers" = "New Wallpapers";
+"Long Media" = "Long Media";
+"Long Status" = "Long Status";
+"Long Subjects" = "Long Subjects";
+"Unlimited Photos" = "Unlimited Photos";
+"Text Walk" = "Text Walk";
+"Media Options" = "Media Options";
+"Fully Profile Pic" = "Fully Profile Pic";
+"Select All" = "Select All";
+"Open Link Inside" = "Open Link Inside";
+"Show Keyboard" = "Show Keyboard";
+
+// Appearance
+"Appearence Options" = "Appearence Options";
+"from this section you will able to change most of WhatsApp Appearances ;)" = "from this section you will able to change most of WhatsApp Appearances ;)";
+"Share Style" = "Share Style";
+"ShareStyle Styles" = "ShareStyle Styles";
+"Font Size" = "Font Size";
+"Text Colors" = "Text Colors";
+"URL Colors" = "URL Colors";
+"Enable Colors" = "Enable Colors";
+"NavigationBar" = "NavigationBar";
+"NavigationBar Items" = "NavigationBar Items";
+"TabBar (Bottom Bar)" = "TabBar (Bottom Bar)";
+"TabBar Items" = "TabBar Items";
+"Enable ChatColor" = "Enable ChatColor";
+"Chat BackgroundColor" = "Chat BackgroundColor";
+
+// Password
+"Password Options" = "Password Options";
+"this option let you lock your application using a password" = "this option let you lock your application using a password";
+"Enable Password" = "Enable Password";
+"Password" = "Password";
+
+// Beta
+"Beta Options" = "Beta Options";
+"this options works only with WhatsApp Beta Versions ;)" = "this options works only with WhatsApp Beta Versions ;)";
+"Hide Camera" = "Hide Camera";
+
+// General
+"General Options" = "General Options";
+"let you enable/disable your tweak in 5 WhatsApp versions" = "let you enable/disable your tweak in 5 WhatsApp versions";
+"WhatsApp Original" = "WhatsApp Original";
+"WhatsApp duplicate 1" = "WhatsApp duplicate 1";
+"WhatsApp duplicate 2" = "WhatsApp duplicate 2";
+"WhatsApp duplicate 3" = "WhatsApp duplicate 3";
+"WhatsApp duplicate 4" = "WhatsApp duplicate 4";
+"WhatsApp duplicate 5" = "WhatsApp duplicate 5";
+
+// Share
+"Share" = "Share";
+"I like #WAEnhancer by @iMokhles the most wanted features for WhatsApp!" = "I like #WAEnhancer by @iMokhles the most wanted features for WhatsApp!";
+
+// Tweak Info Settings
+
+"Tweak info" = "Tweak info";
+"Tweak's Licenses and others" = "Tweak's Licenses and others";
+"Version:" = "Version:";
+"Instructions" = "Instructions";
+"WhatsApp Version" = "WhatsApp Version";
+
+// Authors Info
+
+"Developer" = "Developer";
+"Support me if you would like to do it ;)" = "Support me if you would like to do it ;)";
+"Follow @iMokhles" = "Follow @iMokhles";
+"Visit iMokhles Site" = "Visit imokhles Site";
+"Donate to iMokhles" = "Donate to iMokhles";
+
+"Team" = "Team";
+"Follow @iOSDevT" = "Follow @iOSDevT";
+"Visit iOSDevT Site" = "Visit iOSDevT Site";
+"if you want to follow our team stuffs ;)" = "if you want to follow our team stuffs ;)";

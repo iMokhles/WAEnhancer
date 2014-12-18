@@ -1,0 +1,9 @@
+"ACCESS_TITLE" = "Enter your password to unlock";
+"NEWPASS_TITLE" = "set your new password now";
+"LOCK_BUTTON" = "Locked Chats";
+"%@ LOCK_ALREADY" = "%@ Chat is locked already";
+"%@ UNLOCKED_ALREADY" = "%@ chat is unlock";
+"%@ IS_LOCKED" = "%@ is locked";
+"YOU_HAVE" = "You have to unlock it first";
+"PASSCHANGED_TITLE" = "Your password changed"
+"CHANGEPASS_TITLE" = "set your new password"

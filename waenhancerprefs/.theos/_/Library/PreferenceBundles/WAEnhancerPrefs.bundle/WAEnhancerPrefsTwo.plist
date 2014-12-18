@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>headerCellClass</key>
+			<string>WAEnhancerBannerCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>General Options</string>
+			<key>footerText</key>
+			<string>let you enable/disable your tweak in 5 WhatsApp versions</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>cellClass</key>
+			<string>WASwitchTableCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.imokhles.WAEnhancerPrefs</string>
+			<key>key</key>
+			<string>WHATSAPP</string>
+			<key>label</key>
+			<string>WhatsApp Original</string>
+			<key>PostNotification</key>
+			<string>com.imokhles.WAEnhancerPrefs.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>cellClass</key>
+			<string>WASwitchTableCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.imokhles.WAEnhancerPrefs</string>
+			<key>key</key>
+			<string>WHATSAPP1</string>
+			<key>label</key>
+			<string>WhatsApp duplicate 1</string>
+			<key>PostNotification</key>
+			<string>com.imokhles.WAEnhancerPrefs.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>cellClass</key>
+			<string>WASwitchTableCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.imokhles.WAEnhancerPrefs</string>
+			<key>key</key>
+			<string>WHATSAPP2</string>
+			<key>label</key>
+			<string>WhatsApp duplicate 2</string>
+			<key>PostNotification</key>
+			<string>com.imokhles.WAEnhancerPrefs.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>cellClass</key>
+			<string>WASwitchTableCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.imokhles.WAEnhancerPrefs</string>
+			<key>key</key>
+			<string>WHATSAPP3</string>
+			<key>label</key>
+			<string>WhatsApp duplicate 3</string>
+			<key>PostNotification</key>
+			<string>com.imokhles.WAEnhancerPrefs.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>cellClass</key>
+			<string>WASwitchTableCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.imokhles.WAEnhancerPrefs</string>
+			<key>key</key>
+			<string>WHATSAPP4</string>
+			<key>label</key>
+			<string>WhatsApp duplicate 4</string>
+			<key>PostNotification</key>
+			<string>com.imokhles.WAEnhancerPrefs.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>cellClass</key>
+			<string>WASwitchTableCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.imokhles.WAEnhancerPrefs</string>
+			<key>key</key>
+			<string>WHATSAPP5</string>
+			<key>label</key>
+			<string>WhatsApp duplicate 5</string>
+			<key>PostNotification</key>
+			<string>com.imokhles.WAEnhancerPrefs.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Tweak info</string>
+			<key>footerText</key>
+			<string>Tweak&apos;s Licenses and others</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSTitleValueCell</string>
+			<key>get</key>
+			<string>versionValue:</string>
+			<key>label</key>
+			<string>Version:</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Developer</string>
+			<key>footerText</key>
+			<string>Support me if you would like to do it ;)</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>followOnTwitter:</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>Twitter.png</string>
+			<key>label</key>
+			<string>Follow @iMokhles</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>visitWebSite:</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>Site.png</string>
+			<key>label</key>
+			<string>Visit iMokhles Site</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>makeDonation:</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>Donate.png</string>
+			<key>label</key>
+			<string>Donate to iMokhles</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Team</string>
+			<key>footerText</key>
+			<string>if you want to follow our team stuffs ;)</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>followOnTwitterTeam:</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>Twitter.png</string>
+			<key>label</key>
+			<string>Follow @i_DevT</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>visitWebSiteTeam:</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>Site.png</string>
+			<key>label</key>
+			<string>Visit i_DevT Site</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>WAEnhancer</string>
+</dict>
+</plist>

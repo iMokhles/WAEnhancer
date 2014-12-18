@@ -1,0 +1,94 @@
+// First Settings
+
+// Activator
+"Activator Listener" = "خيارات الاكتيفيتور";
+"choose activator listener" = "قم بإختيار خيار لتفعيل ميزة ارسال الموسيقي من خلال الاكتيفيتور";
+"Activation Methods" = "الخيارات";
+
+// Switchs
+"FlipSwitch Switchs" = "ازرار الفليب سويتش";
+"configure switchs" = "قم بتفعيل الازرار الخاصة بالاداة كا زر اخفاء الظهور و تقارير الاستلام ان لم يكونوا مفعلين";
+"Active Switches" = "تفعيل الازرار";
+
+// Privacy
+"Privacy Options" = "إعدادات الخصوصية";
+"Here the privacy options which let you invisible completly in WhatsApp ;)" = "أعدادات الخصوصية تمكنك من الاختفاء كليا داخل تطبيق الواتس اب";
+"Read Mark" = "إيصال القرأة";
+"Last Seen" = "أخر ظهور";
+
+// Advanced
+"Advanced Options" = "إعدادات متقدمة";
+"Here list of advanced options which give your application the most wanted features ;)" = "قائمة بالاعدادات المتقدمه التي تعطي للتطبيق بعض الكماليات المهمة";
+"New Wallpapers" = "خلفيات جديدة";
+"Long Media" = "وسائط بحجم كبير";
+"Long Status" = "حالة فوق ١٦٠ حرف";
+"Long Subjects" = "عنوان فوق ٢٥ حرف";
+"Unlimited Photos" = "صور بلا حدود";
+"Text Walk" = "تحدث عند السير";
+"Media Options" = "اعدادات الوسائط";
+"Fully Profile Pic" = "صورة شخصية دون قص";
+"Select All" = "إختيار الكل";
+"Open Link Inside" = "فتح الروابط داخل التطبيق";
+"Show Keyboard" = "إظهار لوحة المفاتيح";
+
+// Appearance
+"Appearence Options" = "إعدادات المظهر";
+"from this section you will able to change most of WhatsApp Appearances ;)" = "من خلال هذا القسم تستطيع تغير معظم مظاهر او اللوان التطبيق";
+"Share Style" = "ستايل المشاركة";
+"ShareStyle Styles" = "اختيار الاستايل";
+"Font Size" = "حجم الخط";
+"Text Colors" = "اللوان الخط";
+"URL Colors" = "اللوان الروابط";
+"Enable Colors" = "تفعيل الالوان";
+"NavigationBar" = "البار العلوي";
+"NavigationBar Items" = "الكتابة بالبار العلوي";
+"TabBar (Bottom Bar)" = "البار بالاسفل";
+"TabBar Items" = "الرموز بالبار بالاسفل";
+"Enable ChatColor" = "تفعيل لون خلفية المحادثة";
+"Chat BackgroundColor" = "اختيار لون خلفية المحادثة";
+
+// Password
+"Password Options" = "اعدادات كلمة المرور";
+"this option let you lock your application using a password" = "هدا الخيار يوفر لك ميزة قفل التطبيق كليا بكلمة مرور";
+"Enable Password" = "تفعيل كلمة المرور";
+"Password" = "كلمة المرور";
+
+// Beta
+"Beta Options" = "الاعدادات التجريبية";
+"this options works only with WhatsApp Beta Versions ;)" = "هذه الاعدادات تعمل فقط على النسخ التجريبية (الاخيرة) من الواتس اب";
+"Hide Camera" = "إخفاء زر الكاميرا";
+
+// General
+"General Options" = "إعدادات عامة";
+"let you enable/disable your tweak in 5 WhatsApp versions" = "تمكنك من تعطيل او تفعيل الاداة داخل ٥ مسخ مكررة من تطبيق الواتس اب";
+"WhatsApp Original" = "النسخه الاساسية";
+"WhatsApp duplicate 1" = "نسخة مكررة رقم ١";
+"WhatsApp duplicate 2" = "نسخة مكررة رقم ٢";
+"WhatsApp duplicate 3" = "نسخة مكررة رقم ٣";
+"WhatsApp duplicate 4" = "نسخة مكررة رقم ٤";
+"WhatsApp duplicate 5" = "نسخة مكررة رقم ٥";
+
+// Share
+"Share" = "مشاركة";
+"I like #WAEnhancer by @iMokhles the most wanted features for WhatsApp!" = "I like #WAEnhancer by @iMokhles the most wanted features for WhatsApp!";
+
+// Tweak Info Settings
+
+"Tweak info" = "معلومات الاداة";
+"Tweak's Licenses and others" = "معلومات الاداة من حقوق نشر. إلخ";
+"Version:" = "إصدار:";
+"Instructions" = "معلومات";
+"WhatsApp Version" = "إصدار الواتس اب";
+
+// Authors Info
+
+"Developer" = "المطور";
+"Support me if you would like to do it ;)" = "قم بدعمي إذا أردت :)";
+"Follow @iMokhles" = "@iMokhles تابعني";
+"Visit iMokhles Site" = "لزيارة موقعى";
+"Donate to iMokhles" = "إدعمني";
+
+"Team" = "الفريق";
+"Follow @iOSDevT" = "@iOSDevT تابع";
+"Visit iOSDevT Site" = "لزيارة موقع الفريق";
+"if you want to follow our team stuffs ;)" = "إذا كنت تريد متابعة اعمال فريقنا";

@@ -1,0 +1,35 @@
+// First Settings
+// General
+"General Options" = "إعدادات عامة";
+"let you enable/disable your tweak in 5 WhatsApp versions" = "تمكنك من تعطيل او تفعيل الاداة داخل ٥ نسخ مكررة من تطبيق الواتس اب";
+"WhatsApp Original" = "النسخه الاساسية";
+"WhatsApp duplicate 1" = "نسخة مكررة رقم ١";
+"WhatsApp duplicate 2" = "نسخة مكررة رقم ٢";
+"WhatsApp duplicate 3" = "نسخة مكررة رقم ٣";
+"WhatsApp duplicate 4" = "نسخة مكررة رقم ٤";
+"WhatsApp duplicate 5" = "نسخة مكررة رقم ٥";
+
+// Share
+"Share" = "مشاركة";
+"I like #WAEnhancer by @iMokhles the most wanted features for WhatsApp!" = "I like #WAEnhancer by @iMokhles the most wanted features for WhatsApp!";
+
+// Tweak Info Settings
+
+"Tweak info" = "معلومات الاداة";
+"Tweak's Licenses and others" = "معلومات الاداة من حقوق نشر. إلخ";
+"Version:" = "إصدار:";
+"Instructions" = "معلومات";
+"WhatsApp Version" = "إصدار الواتس اب";
+
+// Authors Info
+
+"Developer" = "المطور";
+"Support me if you would like to do it ;)" = "قم بدعمي إذا أردت :)";
+"Follow @iMokhles" = "@iMokhles تابعني";
+"Visit iMokhles Site" = "لزيارة موقعى";
+"Donate to iMokhles" = "إدعمني";
+
+"Team" = "الفريق";
+"Follow @iOSDevT" = "@iOSDevT تابع";
+"Visit iOSDevT Site" = "لزيارة موقع الفريق";
+"if you want to follow our team stuffs ;)" = "إذا كنت تريد متابعة اعمال فريقنا";

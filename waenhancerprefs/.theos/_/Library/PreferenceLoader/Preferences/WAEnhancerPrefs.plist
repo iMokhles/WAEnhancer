@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = WAEnhancerPrefs;
+		cell = PSLinkCell;
+		detail = "WAEnhancerPrefsListController";
+		icon = "WAEnhancerPrefs.png";
+		isController = 1;
+		label = WAEnhancer;
+	};
+}
